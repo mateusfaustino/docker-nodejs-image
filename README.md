@@ -1,2 +1,4 @@
 # docker-nodejs-image
-A docker image for my nodejs projects
+
+## Why did I make this repository?
+For use a docker image for my nodejs projects. 
