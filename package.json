@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mateusfaustino/docker-nodejs-image/issues"
   },
-  "homepage": "https://github.com/mateusfaustino/docker-nodejs-image#readme"
+  "homepage": "https://github.com/mateusfaustino/docker-nodejs-image#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
