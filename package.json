@@ -1,0 +1,23 @@
+{
+  "name": "docker-nodejs-image",
+  "version": "1.0.0",
+  "description": "Docker image for nodejs projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusfaustino/docker-nodejs-image.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs"
+  ],
+  "author": "Mateus Faustino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusfaustino/docker-nodejs-image/issues"
+  },
+  "homepage": "https://github.com/mateusfaustino/docker-nodejs-image#readme"
+}
